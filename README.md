@@ -1,5 +1,8 @@
 Hey, there! 🙂
 
+Oi, me chamo **Tyago** e sou estudante em **Ciência da Computação** pela **Universidade Estadual da Paraíba - Campus VII** 🎓. Tenho interesse na área de desenvolvimento **FRONT END** 💻, **ciência de dados** 📊, **arquitetura de software** 🏗️ e sou fascinado em **pesquisa acadêmica** com enfoque em **Tecnologia Assistiva** ♿. Tenho o básico de **Inglês** e faço parte de um projeto de extensão intitulado **English Tech** 🌐, que consiste numa abordagem mais técnica para a área da computação. Além disso, um **resumo expandido** publicado pelo **IFPE** 📚.
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tyagosousa&show_icons=true&theme=transparent)
 ##
 <div style="display: inline_block"><br>
