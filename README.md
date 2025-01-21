@@ -1,6 +1,6 @@
 Hey, there! 🙂
 
-Oi, me chamo **Tyago** e sou estudante em **Ciência da Computação** pela **Universidade Estadual da Paraíba - Campus VII** 🎓. Tenho interesse na área de desenvolvimento **Ciência de Dados** 📊 e sou fascinado em **Pesquisa Acadêmica** com enfoque em **Tecnologia Assistiva** ♿. Tenho o básico de **Inglês** e faço parte de um projeto de extensão intitulado **English Tech** 🌐, que consiste numa abordagem mais técnica para a área da computação. Além disso, um **resumo expandido** publicado pelo **IFPE** 📚.
+Oi, me chamo **Tyago** e sou estudante em **Ciência da Computação** pela **Universidade Estadual da Paraíba - Campus VII** 🎓. Tenho interesse na área de **Ciência de Dados** 📊 e sou fascinado em **Pesquisa Acadêmica** com enfoque em **Tecnologia Assistiva** ♿. Tenho o básico de **Inglês** e faço parte de um projeto de extensão intitulado **English Tech** 🌐, que consiste numa abordagem mais técnica para a área da computação. Além disso, um **resumo expandido** publicado pelo **IFPE** 📚.
 #
 
 <div style="text-align: center;">
