@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Thiago%20Carvalho&fontAlign=50&fontAlignY=40&color=0:0f172a,100:2563eb&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Thiago%20Sousa&fontAlign=50&fontAlignY=40&color=0:0f172a,100:2563eb&fontColor=ffffff" />
 
 ###  Desenvolvedor em formação 
 
