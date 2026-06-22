@@ -4,7 +4,7 @@
 
 # Thiago Sousa
 
-### Computer Science Student | Future Data Engineer & AI Engineer
+### Computer Science Student | Data Engineering & AI Enthusiast
 
 </div>
 
@@ -14,9 +14,15 @@
 
 🎓 Computer Science student at UEPB.
 
-I am building my career at the intersection of **Artificial Intelligence, Data Engineering and Cloud Computing**, focusing on developing scalable solutions capable of transforming data into business value.
+Passionate about technology, software development, Artificial Intelligence, Data Engineering and Cloud Computing.
 
-Currently preparing for an internship focused on:
+Currently preparing for an internship focused on AWS, Generative AI and Data Engineering, while building projects that combine software engineering, data and intelligent systems.
+
+My goal is to become a professional capable of designing scalable solutions, data pipelines and AI-powered applications in cloud environments.
+
+---
+
+## 🚀 Current Focus
 
 - ☁️ AWS Cloud
 - 🤖 Generative AI
@@ -24,18 +30,27 @@ Currently preparing for an internship focused on:
 - 📊 Data Engineering
 - 🐍 Python Development
 - ⚡ Process Automation
-
-My goal is to become a professional capable of designing intelligent systems, data pipelines and AI-powered applications in cloud environments.
+- 🌐 Full Stack Development
 
 ---
 
-## 🚀 Current Focus
+## 📊 GitHub Analytics
 
-- Studying AWS ecosystem and cloud architectures
-- Building projects with Python and APIs
-- Exploring Generative AI and LLM applications
-- Learning Data Engineering fundamentals
-- Developing software engineering best practices
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=thiagosousai&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagosousai&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=thiagosousai&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 ---
 
@@ -43,7 +58,7 @@ My goal is to become a professional capable of designing intelligent systems, da
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,js,react,nodejs,aws,mysql,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=python,js,react,nodejs,aws,mysql,sqlite,git,github,vscode" />
 
 </div>
 
@@ -79,17 +94,22 @@ My goal is to become a professional capable of designing intelligent systems, da
 ## 📂 Featured Projects
 
 ### 📚 MyBooks
-Personal library management platform with reading tracking.
 
-**Technologies:**
-Node.js • JavaScript • SQLite • REST API
+Personal library management platform focused on reading tracking and book organization.
 
-**Features:**
+**Technologies**
+- Node.js
+- JavaScript
+- SQLite
+- REST API
+
+**Main Features**
 - Book registration
 - Reading progress tracking
 - CRUD operations
 - Dashboard and statistics
-- Data persistence with SQLite
+- SQLite persistence
+- Client-server architecture
 
 ---
 
@@ -108,6 +128,10 @@ Node.js • JavaScript • SQLite • REST API
 
 <div align="center">
 
+<a href="https://github.com/thiagosousai">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
 <a href="https://www.linkedin.com/in/thiagosousai/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
@@ -118,7 +142,7 @@ Node.js • JavaScript • SQLite • REST API
 
 <div align="center">
 
-💡 "Continuous learning is the foundation of innovation."
+💡 *"Continuous learning is the foundation of innovation."*
 
 </div>
 
